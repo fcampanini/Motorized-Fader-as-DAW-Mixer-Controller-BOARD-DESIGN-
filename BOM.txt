@@ -1,0 +1,17 @@
+Build of Materials for Motorized Fader Controller MF004
+
+1 SLIDE POT 10K OHM 0.5W TOP 100MM	-	BOURN			-	PSM01-081A-103B2
+1 MCU					-	Microcheap Atmel	-	SAMD1114AS
+1 MOTOR DRIVER				-	ROHM			-	BD6221F
+1 CAPACITOR				-				-	10uf 0805
+2 CAPACITOR				-				-	0.1uf 0805
+1 LED GREEN				-				-	0805
+1 LED RED				-				-	0805
+1 LED YELLOW				-				-	0805
+1 LED BLUE				-				-	0805
+4 RESISTOR				-				-	220 Ohms
+1 RESISTOR				-				-	20K Ohms
+8 HEAD PINS ANGLED 90°			-				-
+1 HEADER JST SIDE ENTRY			-				-	2WAY S2B-PH-K-S (LF)
+1 MOMENTARY BUTTON			-				-	6,5mm X 6,5mm
+1 RESISTOR				-				-	10k Ohms
